@@ -1,6 +1,6 @@
 # Sistema de Navegacao Dijkstra
 
-Aplicacao web interativa para visualizacao e execucao do algoritmo de Dijkstra em grafos ponderados. Desenvolvida para a disciplina de Algoritmos e Estruturas de Dados (AED).
+Aplicacao web interativa para visualizacao e execucao do algoritmo de Dijkstra em grafos ponderados. Desenvolvida para a disciplina de Algoritmos e Estruturas de Dados (AED2).
 
 ---
 
